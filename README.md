@@ -1,9 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-Mi name is José Tomas Ibáñez.
+I'm José Tomás Ibáñez — Software Engineer @ NeuralWorks.
 
-About me: 
+```text
+Interests
+├── Software Engineering
+├── Cloud & Infrastructure
+└── Machine Learning
+```
 
-- 🔭 I’m currently studying at Pontificia Universidad Católica de Chile
-- 🌱 I’m currently learning about Software Architecture
-- 📫 How to reach me: jtibanezv@uc.cl
+Currently learning, building, and experimenting across the stack.
+
+[LinkedIn](https://www.linkedin.com/in/jt-ibanez) · [Email](mailto:jtibanezv@uc.cl)
